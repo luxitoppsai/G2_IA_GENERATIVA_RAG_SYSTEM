@@ -7,6 +7,10 @@ Proyecto académico para experimentar con un sistema **RAG (Retrieval-Augmented 
 - Luis Sanchez Panihuara
 - Jonathan Ramirez 
 
+## Link de Videos
+
+- TRABAJO FINAL: https://drive.google.com/drive/folders/102-bIHDyXnclNxVkUwWItvwVnGE0_p4q?usp=sharing
+
 ## Contenido
 
 - `G2_Sistema_RAG_IA_GENERATIVA_MDS.ipynb`: notebook principal con el flujo del sistema.
